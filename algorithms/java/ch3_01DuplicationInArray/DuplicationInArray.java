@@ -20,14 +20,14 @@
  * 
  * 2 <= n <= 100000
  ******************************************************************************************************/
-package ch3DuplicationInArray;
+package ch3_01DuplicationInArray;
 
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
 public class DuplicationInArray {
-    // sort array
+    // sort array 排序之后遍历数组，比较相邻的两树，即可得到结果
     // space complexity O(1)
     // time complexity O(nlogn)
     public int findRepeatNumber(int[] nums) {
@@ -44,7 +44,7 @@ public class DuplicationInArray {
         return -1;
     }
 
-    // HashSet
+    // HashSet 利用HashSet的不可重复性
     // space complexity O(n)
     // time complexity O(n)
     public int findRepeatNumber2(int[] nums) {
@@ -61,7 +61,7 @@ public class DuplicationInArray {
         return -1;
     }
 
-    // smart
+    // smart 利用数组特性，即下标 = nums[下标]，通过比较以及交换可知结果
     // space complexity O(1)
     // time complexity O(n)
     public int findRepeatNumber3(int[] nums) {
