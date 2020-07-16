@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4227f6e7-c248-4c16-b162-cd2392058dd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/java/ch3DuplicationInArray/DuplicationInArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/lib/junit-4.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/autocommit.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/comments.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/lib/query_problem.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/readme.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,21 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/readme.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <first_editor relative-caret-position="136">
+                <caret line="8" selection-start-line="8" selection-end-line="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -44,10 +29,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/java/ch3DuplicationInArray/DuplicationInArray.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+            <state relative-caret-position="484">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="31" selection-end-column="31" />
               <folding>
                 <element signature="e#0#634#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -56,35 +41,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/java/ch3DuplicationInArray/DuplicationInArrayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/java/RobotMovingCount/RobotMovingCount.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="286">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34782">
-              <caret line="2119" column="19" selection-start-line="2119" selection-start-column="19" selection-end-line="2119" selection-end-column="19" />
-              <folding>
-                <element signature="e#82616#82617#0" expanded="true" />
-                <element signature="e#82667#82668#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,17 +63,51 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/comments.sh">
+        <entry file="file://$PROJECT_DIR$/scripts/autocommit.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3094">
-              <caret line="182" column="49" selection-start-line="182" selection-start-column="49" selection-end-line="182" selection-end-column="49" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/autocommit.sh">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEditTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="87" column="45" lean-forward="true" selection-start-line="87" selection-start-column="45" selection-end-line="87" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#827#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrixTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="63" column="87" lean-forward="true" selection-start-line="63" selection-start-column="87" selection-end-line="63" selection-end-column="87" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -133,6 +130,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
@@ -156,9 +154,16 @@
         <option value="$PROJECT_DIR$/algorithms/java/RobotMovingCount/RobotMovingCountTest.groovy" />
         <option value="$PROJECT_DIR$/algorithms/java/RobotMovingCount/RobotMovingCountTest.java" />
         <option value="$PROJECT_DIR$/algorithms/java/RobotMovingCount/RobotMovingCount.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/algorithms/java/ch3DuplicationInArray/DuplicationInArray.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch3DuplicationInArray/DuplicationInArrayTest.java" />
+        <option value="$PROJECT_DIR$/scripts/autocommit.sh" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArray.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArrayTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEditTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrixTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -168,17 +173,6 @@
         <option name="mavenHome" value="/usr/local/apache-maven-3.6.1" />
         <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.1/conf/settings.xml" />
       </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Coding-Interview.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
-      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
@@ -212,13 +206,6 @@
             <path>
               <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ch3DuplicationInArray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -231,6 +218,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -247,6 +235,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ch04FindInPartiallySortedMatrix" />
+      <recent name="ch03_02DuplicaitonInArrayNoEdit" />
       <recent name="ch3DuplicationInArray" />
       <recent name="RobotMovingCount" />
     </key>
@@ -258,6 +248,7 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch3DuplicationInArray" />
       <recent name="$PROJECT_DIR$/algorithms/java/13-RobotMovingCount" />
     </key>
@@ -274,34 +265,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DuplicationInArrayTest">
-    <configuration name="DuplicationInArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FindInPartiallySortedMatrixTest">
+    <configuration name="DuplicationInArrayNoEditTest.findRepeatNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch3DuplicationInArray.*" />
+          <option name="PATTERN" value="ch03_02DuplicaitonInArrayNoEdit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ch3DuplicationInArray" />
-      <option name="MAIN_CLASS_NAME" value="ch3DuplicationInArray.DuplicationInArrayTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="ch03_02DuplicaitonInArrayNoEdit" />
+      <option name="MAIN_CLASS_NAME" value="ch03_02DuplicaitonInArrayNoEdit.DuplicationInArrayNoEditTest" />
+      <option name="METHOD_NAME" value="findRepeatNumber" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicationInArrayTest.test_has_multi_repeat_number" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DuplicationInArrayNoEditTest.test_duplicate_two_number" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch3DuplicationInArray.*" />
+          <option name="PATTERN" value="ch03_02DuplicaitonInArrayNoEdit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ch3DuplicationInArray" />
-      <option name="MAIN_CLASS_NAME" value="ch3DuplicationInArray.DuplicationInArrayTest" />
-      <option name="METHOD_NAME" value="test_has_multi_repeat_number" />
+      <option name="PACKAGE_NAME" value="ch03_02DuplicaitonInArrayNoEdit" />
+      <option name="MAIN_CLASS_NAME" value="ch03_02DuplicaitonInArrayNoEdit.DuplicationInArrayNoEditTest" />
+      <option name="METHOD_NAME" value="test_duplicate_two_number" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicationInArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch3_01DuplicationInArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch3_01DuplicationInArray" />
+      <option name="MAIN_CLASS_NAME" value="ch3_01DuplicationInArray.DuplicationInArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -310,57 +317,40 @@
       <module name="Coding-Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch3DuplicationInArray.*" />
+          <option name="PATTERN" value="ch3_01DuplicationInArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ch3DuplicationInArray" />
-      <option name="MAIN_CLASS_NAME" value="ch3DuplicationInArray.DuplicationInArrayTest" />
+      <option name="PACKAGE_NAME" value="ch3_01DuplicationInArray" />
+      <option name="MAIN_CLASS_NAME" value="ch3_01DuplicationInArray.DuplicationInArrayTest" />
       <option name="METHOD_NAME" value="test_invalid_input" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicationInArrayTest.test_repeat_number_is_least_number" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindInPartiallySortedMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch3DuplicationInArray.*" />
+          <option name="PATTERN" value="ch04FindInPartiallySortedMatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ch3DuplicationInArray" />
-      <option name="MAIN_CLASS_NAME" value="ch3DuplicationInArray.DuplicationInArrayTest" />
-      <option name="METHOD_NAME" value="test_repeat_number_is_least_number" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RobotMovingCountTest.useLibrary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Coding-Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RobotMovingCount.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="RobotMovingCount" />
-      <option name="MAIN_CLASS_NAME" value="RobotMovingCount.RobotMovingCountTest" />
-      <option name="METHOD_NAME" value="useLibrary" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="ch04FindInPartiallySortedMatrix" />
+      <option name="MAIN_CLASS_NAME" value="ch04FindInPartiallySortedMatrix.FindInPartiallySortedMatrixTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FindInPartiallySortedMatrixTest" />
+        <item itemvalue="JUnit.DuplicationInArrayNoEditTest.test_duplicate_two_number" />
+        <item itemvalue="JUnit.DuplicationInArrayNoEditTest.findRepeatNumber" />
         <item itemvalue="JUnit.DuplicationInArrayTest" />
         <item itemvalue="JUnit.DuplicationInArrayTest.test_invalid_input" />
-        <item itemvalue="JUnit.DuplicationInArrayTest.test_has_multi_repeat_number" />
-        <item itemvalue="JUnit.DuplicationInArrayTest.test_repeat_number_is_least_number" />
-        <item itemvalue="JUnit.RobotMovingCountTest.useLibrary" />
       </list>
     </recent_temporary>
   </component>
@@ -380,26 +370,50 @@
       <workItem from="1586868475617" duration="244000" />
       <workItem from="1587117807173" duration="882000" />
       <workItem from="1594223726939" duration="1511000" />
-      <workItem from="1594742073423" duration="1940000" />
+      <workItem from="1594742073423" duration="6799000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RobotMovingCountTest_useLibrary - 2020.04.13 at 08h 26m 55s.xml">
-      <configuration name="RobotMovingCountTest.useLibrary" configurationId="JUnit" />
+    <history-entry file="DuplicationInArrayTest_test_invalid_input - 2020.07.15 at 00h 30m 53s.xml">
+      <configuration name="DuplicationInArrayTest.test_invalid_input" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RobotMovingCountTest_useLibrary - 2020.04.13 at 08h 28m 35s.xml">
-      <configuration name="RobotMovingCountTest.useLibrary" configurationId="JUnit" />
+    <history-entry file="DuplicationInArrayTest - 2020.07.15 at 00h 30m 57s.xml">
+      <configuration name="DuplicationInArrayTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DuplicationInArrayNoEditTest_findRepeatNumber - 2020.07.15 at 01h 03m 54s.xml">
+      <configuration name="DuplicationInArrayNoEditTest.findRepeatNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DuplicationInArrayNoEditTest_findRepeatNumber - 2020.07.15 at 01h 06m 20s.xml">
+      <configuration name="DuplicationInArrayNoEditTest.findRepeatNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DuplicationInArrayNoEditTest_test_duplicate_two_number - 2020.07.15 at 01h 07m 32s.xml">
+      <configuration name="DuplicationInArrayNoEditTest.test_duplicate_two_number" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DuplicationInArrayNoEditTest_test_duplicate_two_number - 2020.07.15 at 01h 08m 20s.xml">
+      <configuration name="DuplicationInArrayNoEditTest.test_duplicate_two_number" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DuplicationInArrayNoEditTest_test_duplicate_two_number - 2020.07.15 at 01h 08m 42s.xml">
+      <configuration name="DuplicationInArrayNoEditTest.test_duplicate_two_number" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DuplicationInArrayNoEditTest_test_duplicate_two_number - 2020.07.15 at 01h 08m 49s.xml">
+      <configuration name="DuplicationInArrayNoEditTest.test_duplicate_two_number" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DuplicationInArrayNoEditTest_test_duplicate_two_number - 2020.07.15 at 01h 09m 03s.xml">
+      <configuration name="DuplicationInArrayNoEditTest.test_duplicate_two_number" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindInPartiallySortedMatrixTest - 2020.07.16 at 01h 02m 46s.xml">
+      <configuration name="FindInPartiallySortedMatrixTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10799000" />
+    <option name="totallyTimeSpent" value="15658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15282215" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15282215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -408,12 +422,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32970297" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36237624" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3831683" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27821782" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34356436" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -454,16 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/RobotMovingCount/RobotMovingCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -492,9 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/autocommit.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64141">
@@ -515,10 +516,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch3DuplicationInArray/DuplicationInArray.java">
+    <entry file="file://$PROJECT_DIR$/scripts/autocommit.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="31" selection-end-column="31" />
           <folding>
             <element signature="e#0#634#0" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -526,10 +544,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch3DuplicationInArray/DuplicationInArrayTest.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="346">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEditTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="87" column="45" lean-forward="true" selection-start-line="87" selection-start-column="45" selection-end-line="87" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#827#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="63" column="87" lean-forward="true" selection-start-line="63" selection-start-column="87" selection-end-line="63" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
