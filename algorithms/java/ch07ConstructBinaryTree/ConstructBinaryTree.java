@@ -30,8 +30,73 @@
 
 package ch07ConstructBinaryTree;
 
+import java.util.BitSet;
+
 public class ConstructBinaryTree {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         return null;
+    }
+
+//    public static void main(String[] args) {
+//        int a = Integer.MAX_VALUE;
+//        System.out.println(a);
+//        long b = a + 2L;
+//        System.out.println(b);
+//        long c = a + 2;
+//        System.out.println(c);
+//    }
+
+//    public static void main(String[] args) {
+//        int i = 1;
+//        int j = i++;
+//        if ((i == ++j)  && (i++ == j)) {
+//            i += j;
+//        }
+//        System.out.println(i);
+//    }
+
+//    public static void main(String[] args) {
+//        int num = 50;
+//        int a = 50;
+//        num = num++ * 2;
+//        a = ++a * 2;
+//        System.out.println(num); // 100
+//        System.out.println(a); // 102
+//    }
+
+    public static void main(String[] args) {
+//        int num = 10;
+//        num = num++;
+//        System.out.println(num);
+//        int i = 1;
+//        i=i++; // i = 1
+//        int j = i++; // j = 1, i = 2
+//        int k = i + ++i *i++; // k = 2+3*3 = 11, i = 4
+//        System.out.println(i);
+//        System.out.println(j);
+//        System.out.println(k);
+//        int a = 2;
+//        int b = 2;
+//        a++;
+//        ++b;
+//        System.out.println(a);
+//        System.out.println(b);
+
+//        int a = 2;
+//        int b = ++a + a++ + ++a;
+//        System.out.println(a);
+//        System.out.println(b);
+
+//        int a = 2;
+//        a = a++ + a++;
+//        System.out.println(a);
+
+        int i = 1;
+        i = i++; // 1
+        int j = i++; // j = 1, i = 2
+        int k = i + ++i * i++; // k = 2 + 3 * 3 = 11, i = 4
+        System.out.println("i="+i);
+        System.out.println("j="+j);
+        System.out.println("k="+k);
     }
 }
