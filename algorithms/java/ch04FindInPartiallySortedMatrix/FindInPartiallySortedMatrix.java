@@ -95,4 +95,27 @@ public class FindInPartiallySortedMatrix {
         }
         return false;
     }
+
+    public boolean findNumberIn2DArray3(int[][] matrix, int target) {
+        if (matrix == null || matrix.length < 1) {
+            return false;
+        }
+
+        int rows = matrix.length;
+        int cols = matrix[0].length;
+        // 右上角的数字
+        int row = 0;
+        int col = cols - 1;
+
+        while (row < rows && col >=  0) {
+            if (target > matrix[row][col]) {
+                row++;
+            } else if (target < matrix[row][col]) {
+                col--;
+            } else {
+                return true;
+            }
+        }
+        return false;
+    }
 }

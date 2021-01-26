@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4227f6e7-c248-4c16-b162-cd2392058dd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +37,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="89" column="4" lean-forward="true" selection-start-line="89" selection-start-column="4" selection-end-line="110" selection-end-column="5" />
+            <state relative-caret-position="462">
+              <caret line="86" column="18" lean-forward="true" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="92" column="9" lean-forward="true" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="98" column="4" selection-start-line="98" selection-start-column="4" selection-end-line="119" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -179,9 +195,7 @@
         <option value="$PROJECT_DIR$/algorithms/java/ch3DuplicationInArray/DuplicationInArray.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch3DuplicationInArray/DuplicationInArrayTest.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArrayTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEditTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrixTest.java" />
         <option value="$PROJECT_DIR$/scripts/autocommit.sh" />
         <option value="$PROJECT_DIR$/algorithms/java/ch05ReplaceSpaces/ReplaceSpaces.java" />
@@ -193,6 +207,8 @@
         <option value="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTree.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArray.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java" />
       </list>
     </option>
   </component>
@@ -204,7 +220,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -238,13 +254,18 @@
               <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ch3_01DuplicationInArray" type="462c0819:PsiDirectoryNode" />
+              <item name="ch04FindInPartiallySortedMatrix" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -407,7 +428,7 @@
       <workItem from="1594742073423" duration="14328000" />
       <workItem from="1595264932719" duration="9086000" />
       <workItem from="1595513522380" duration="1701000" />
-      <workItem from="1611587370136" duration="543000" />
+      <workItem from="1611587370136" duration="2526000" />
     </task>
     <servers />
   </component>
@@ -444,15 +465,15 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34517000" />
+    <option name="totallyTimeSpent" value="36500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73960394" visible="true" weight="0.171459" />
-      <window_info id="Structure" order="1" sideWeight="0.26039603" side_tool="true" visible="true" weight="0.171459" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.73896104" visible="true" weight="0.171459" />
+      <window_info id="Structure" order="1" sideWeight="0.26103896" side_tool="true" visible="true" weight="0.171459" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -466,7 +487,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23762377" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23762377" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -557,27 +578,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEditTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="87" column="45" lean-forward="true" selection-start-line="87" selection-start-column="45" selection-end-line="87" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#827#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,11 +733,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="89" column="4" lean-forward="true" selection-start-line="89" selection-start-column="4" selection-end-line="110" selection-end-column="5" />
+        <state relative-caret-position="462">
+          <caret line="86" column="18" lean-forward="true" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="92" column="9" lean-forward="true" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="98" column="4" selection-start-line="98" selection-start-column="4" selection-end-line="119" selection-end-column="5" />
         </state>
       </provider>
     </entry>
