@@ -82,4 +82,38 @@ public class ReplaceSpaces {
         return new String(tempChars);
     }
 
+    public String replaceSpace3(String s) {
+        if (s == null || s.length() <= 0) {
+            return s;
+        }
+
+        int numberOfBlank = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == ' ') {
+                numberOfBlank++;
+            }
+        }
+        // 如果是 c++ 可以直接使用resize 方法进行更改字符串长度，即c++的字符串是可变的
+        // 因为是 Java，所以这里使用一个新的数组
+        int newLength = s.length() + numberOfBlank * 2;
+        char[] temp = new char[newLength];
+        for (int i = 0; i < s.length(); i++) {
+            temp[i] = s.charAt(i);
+        }
+
+        int indexOfOriginal = s.length() - 1;
+        int indexOfNew = newLength - 1;
+
+        while (indexOfOriginal >= 0) {
+            if (temp[indexOfOriginal] == ' ') {
+                temp[indexOfNew--] = '0';
+                temp[indexOfNew--] = '2';
+                temp[indexOfNew--] = '%';
+            } else {
+                temp[indexOfNew--] = temp[indexOfOriginal];
+            }
+            indexOfOriginal--;
+        }
+        return new String(temp);
+    }
 }
