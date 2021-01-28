@@ -76,4 +76,23 @@ public class PrintListInReversedOrder {
         }
     }
 
+    int[] ans;
+    int num;
+    public int[] reversePrint3(ListNode head) {
+        List<Integer> list = new ArrayList<>();
+        recursive2(head, list);
+        int[] print = new int[list.size()];
+        for (int i = 0; i < list.size(); i++) {
+            print[i] = list.get(i);
+        }
+        return print;
+    }
+
+    private void recursive2(ListNode node, int[] ans) {
+        if (node == null) {
+            return;
+        }
+        recursive2(node.next, list);
+        list.add(node.val);
+    }
 }
