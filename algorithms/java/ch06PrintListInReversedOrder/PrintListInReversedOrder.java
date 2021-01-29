@@ -77,22 +77,21 @@ public class PrintListInReversedOrder {
     }
 
     int[] ans;
-    int num;
+    int num = 0;
+    int index = 0;
     public int[] reversePrint3(ListNode head) {
         List<Integer> list = new ArrayList<>();
-        recursive2(head, list);
-        int[] print = new int[list.size()];
-        for (int i = 0; i < list.size(); i++) {
-            print[i] = list.get(i);
-        }
-        return print;
+        recursive2(head);
+        return ans;
     }
 
-    private void recursive2(ListNode node, int[] ans) {
+    private void recursive2(ListNode node) {
         if (node == null) {
+            ans = new int[num];
             return;
         }
-        recursive2(node.next, list);
-        list.add(node.val);
+        num++;
+        recursive2(node.next);
+        ans[index++] = node.val;
     }
 }

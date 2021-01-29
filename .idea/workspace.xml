@@ -121,8 +121,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder/PrintListInReversedOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="90" column="52" selection-start-line="90" selection-start-column="52" selection-end-line="90" selection-end-column="52" />
+            <state relative-caret-position="410">
+              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -219,7 +219,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -427,7 +427,7 @@
       <workItem from="1594742073423" duration="14328000" />
       <workItem from="1595264932719" duration="9086000" />
       <workItem from="1595513522380" duration="1701000" />
-      <workItem from="1611587370136" duration="4873000" />
+      <workItem from="1611587370136" duration="5457000" />
     </task>
     <servers />
   </component>
@@ -464,14 +464,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38847000" />
+    <option name="totallyTimeSpent" value="39431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7386216" visible="true" weight="0.18157615" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7386216" visible="true" weight="0.18157615" />
       <window_info id="Structure" order="1" sideWeight="0.2613784" side_tool="true" visible="true" weight="0.18157615" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -486,7 +486,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23861386" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23861386" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -746,8 +746,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder/PrintListInReversedOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="90" column="52" selection-start-line="90" selection-start-column="52" selection-end-line="90" selection-end-column="52" />
+        <state relative-caret-position="410">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
