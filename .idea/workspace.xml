@@ -121,8 +121,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder/PrintListInReversedOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+            <state relative-caret-position="409">
+              <caret line="85" column="5" selection-start-line="78" selection-start-column="4" selection-end-line="95" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -427,7 +427,7 @@
       <workItem from="1594742073423" duration="14328000" />
       <workItem from="1595264932719" duration="9086000" />
       <workItem from="1595513522380" duration="1701000" />
-      <workItem from="1611587370136" duration="5457000" />
+      <workItem from="1611587370136" duration="5668000" />
     </task>
     <servers />
   </component>
@@ -464,11 +464,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39431000" />
+    <option name="totallyTimeSpent" value="39642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7386216" visible="true" weight="0.18157615" />
@@ -746,8 +745,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder/PrintListInReversedOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="409">
+          <caret line="85" column="5" selection-start-line="78" selection-start-column="4" selection-end-line="95" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
