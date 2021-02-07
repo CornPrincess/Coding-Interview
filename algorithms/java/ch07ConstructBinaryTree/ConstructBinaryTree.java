@@ -30,73 +30,52 @@
 
 package ch07ConstructBinaryTree;
 
-import java.util.BitSet;
-
 public class ConstructBinaryTree {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         return null;
     }
 
-//    public static void main(String[] args) {
-//        int a = Integer.MAX_VALUE;
-//        System.out.println(a);
-//        long b = a + 2L;
-//        System.out.println(b);
-//        long c = a + 2;
-//        System.out.println(c);
-//    }
+    public void front_order_print(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        System.out.println(root.val);
+        front_order_print(root.left);
+        front_order_print(root.right);
+    }
 
-//    public static void main(String[] args) {
-//        int i = 1;
-//        int j = i++;
-//        if ((i == ++j)  && (i++ == j)) {
-//            i += j;
-//        }
-//        System.out.println(i);
-//    }
+    public void middle_order_print(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        middle_order_print(root.left);
+        System.out.println(root.val);
+        middle_order_print(root.right);
+    }
 
-//    public static void main(String[] args) {
-//        int num = 50;
-//        int a = 50;
-//        num = num++ * 2;
-//        a = ++a * 2;
-//        System.out.println(num); // 100
-//        System.out.println(a); // 102
-//    }
+    public void back_order_print(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        back_order_print(root.left);
+        back_order_print(root.right);
+        System.out.println(root.val);
+    }
 
-    public static void main(String[] args) {
-//        int num = 10;
-//        num = num++;
-//        System.out.println(num);
-//        int i = 1;
-//        i=i++; // i = 1
-//        int j = i++; // j = 1, i = 2
-//        int k = i + ++i *i++; // k = 2+3*3 = 11, i = 4
-//        System.out.println(i);
-//        System.out.println(j);
-//        System.out.println(k);
-//        int a = 2;
-//        int b = 2;
-//        a++;
-//        ++b;
-//        System.out.println(a);
-//        System.out.println(b);
-
-//        int a = 2;
-//        int b = ++a + a++ + ++a;
-//        System.out.println(a);
-//        System.out.println(b);
-
-//        int a = 2;
-//        a = a++ + a++;
-//        System.out.println(a);
-
-        int i = 1;
-        i = i++; // 1
-        int j = i++; // j = 1, i = 2
-        int k = i + ++i * i++; // k = 2 + 3 * 3 = 11, i = 4
-        System.out.println("i="+i);
-        System.out.println("j="+j);
-        System.out.println("k="+k);
+    public TreeNode initTree() {
+        TreeNode root = new TreeNode(1);
+        TreeNode treeNode1_1 = new TreeNode(2);
+        TreeNode treeNode1_2 = new TreeNode(3);
+        TreeNode treeNode1_1_1 = new TreeNode(4);
+        TreeNode treeNode1_1_2 = new TreeNode(5);
+        TreeNode treeNode1_2_1 = new TreeNode(6);
+        TreeNode treeNode1_2_2 = new TreeNode(7);
+        root.left = treeNode1_1;
+        root.right = treeNode1_2;
+        treeNode1_1.left = treeNode1_1_1;
+        treeNode1_1.right = treeNode1_1_2;
+        treeNode1_2.left = treeNode1_2_1;
+        treeNode1_2.right = treeNode1_2_2;
+        return root;
     }
 }

@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4227f6e7-c248-4c16-b162-cd2392058dd7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder/PrintListInReversedOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder/PrintListInReversedOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/META-INF/Coding-Interview.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch05ReplaceSpaces/ReplaceSpaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch05ReplaceSpaces/ReplaceSpaces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch06PrintListInReversedOrder/PrintListInReversedOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch06PrintListInReversedOrder/PrintListInReversedOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch07ConstructBinaryTree/ConstructBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch07ConstructBinaryTree/ConstructBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch3_01DuplicationInArray/DuplicationInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch3_01DuplicationInArray/DuplicationInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTree.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +39,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="443">
+              <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+              <folding>
+                <element signature="e#868#869#0" expanded="true" />
+                <element signature="e#895#896#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <folding>
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+                <element signature="e#825#826#0" expanded="true" />
+                <element signature="e#879#880#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -39,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="86" column="18" lean-forward="true" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+            <state relative-caret-position="1071">
+              <caret line="86" column="18" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="92" column="9" lean-forward="true" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+            <state relative-caret-position="1564">
+              <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -60,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+            <state relative-caret-position="1173">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
             </state>
           </provider>
         </entry>
@@ -70,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,8 +146,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch05ReplaceSpaces/ReplaceSpaces.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="104" column="39" lean-forward="true" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
+            <state relative-caret-position="1496">
+              <caret line="104" column="39" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -118,11 +161,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder/PrintListInReversedOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="85" column="5" selection-start-line="78" selection-start-column="4" selection-end-line="95" selection-end-column="5" />
+            <state relative-caret-position="273">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,8 +210,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -202,12 +245,13 @@
         <option value="$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder/PrintListInReversedOrderTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/TreeNode.java" />
-        <option value="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTree.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArray.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch05ReplaceSpaces/ReplaceSpaces.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder/PrintListInReversedOrder.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTreeTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -219,7 +263,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -228,8 +272,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,40 +280,12 @@
               <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ch06PrintListInReversedOrder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,18 +307,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ch07ConstructBinaryTree" />
       <recent name="ch06PrintListInReversedOrder" />
       <recent name="ch05ReplaceSpaces" />
       <recent name="ch04FindInPartiallySortedMatrix" />
       <recent name="ch03_02DuplicaitonInArrayNoEdit" />
-      <recent name="ch3DuplicationInArray" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/algorithm" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree" />
@@ -311,6 +319,13 @@
       <recent name="$PROJECT_DIR$/algorithms/java/ch05ReplaceSpaces" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch3DuplicationInArray" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/algorithm" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -325,7 +340,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConstructBinaryTree">
+  <component name="RunManager" selected="JUnit.ConstructBinaryTreeTest.back_order_print">
     <configuration name="ConstructBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch07ConstructBinaryTree.ConstructBinaryTree" />
       <module name="Coding-Interview" />
@@ -339,15 +354,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintListInReversedOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch06PrintListInReversedOrder.PrintListInReversedOrder" />
+    <configuration name="ConstructBinaryTreeTest.back_order_print" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch06PrintListInReversedOrder.*" />
+          <option name="PATTERN" value="ch07ConstructBinaryTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ch07ConstructBinaryTree" />
+      <option name="MAIN_CLASS_NAME" value="ch07ConstructBinaryTree.ConstructBinaryTreeTest" />
+      <option name="METHOD_NAME" value="back_order_print" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructBinaryTreeTest.buildTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch07ConstructBinaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch07ConstructBinaryTree" />
+      <option name="MAIN_CLASS_NAME" value="ch07ConstructBinaryTree.ConstructBinaryTreeTest" />
+      <option name="METHOD_NAME" value="buildTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructBinaryTreeTest.middle_order_print" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch07ConstructBinaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch07ConstructBinaryTree" />
+      <option name="MAIN_CLASS_NAME" value="ch07ConstructBinaryTree.ConstructBinaryTreeTest" />
+      <option name="METHOD_NAME" value="middle_order_print" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -367,44 +417,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintListInReversedOrderTest.reversePrint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Coding-Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch06PrintListInReversedOrder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ch06PrintListInReversedOrder" />
-      <option name="MAIN_CLASS_NAME" value="ch06PrintListInReversedOrder.PrintListInReversedOrderTest" />
-      <option name="METHOD_NAME" value="reversePrint" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReplaceSpacesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Coding-Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch05ReplaceSpaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ch05ReplaceSpaces" />
-      <option name="MAIN_CLASS_NAME" value="ch05ReplaceSpaces.ReplaceSpacesTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConstructBinaryTreeTest.back_order_print" />
+        <item itemvalue="JUnit.ConstructBinaryTreeTest.middle_order_print" />
+        <item itemvalue="JUnit.ConstructBinaryTreeTest.buildTree" />
         <item itemvalue="Application.ConstructBinaryTree" />
         <item itemvalue="JUnit.PrintListInReversedOrderTest" />
-        <item itemvalue="JUnit.PrintListInReversedOrderTest.reversePrint" />
-        <item itemvalue="Application.PrintListInReversedOrder" />
-        <item itemvalue="JUnit.ReplaceSpacesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -427,72 +446,73 @@
       <workItem from="1594742073423" duration="14328000" />
       <workItem from="1595264932719" duration="9086000" />
       <workItem from="1595513522380" duration="1701000" />
-      <workItem from="1611587370136" duration="5668000" />
+      <workItem from="1611587370136" duration="5841000" />
+      <workItem from="1612708753974" duration="1664000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DuplicationInArrayNoEditTest_test_duplicate_two_number - 2020.07.15 at 01h 09m 03s.xml">
-      <configuration name="DuplicationInArrayNoEditTest.test_duplicate_two_number" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindInPartiallySortedMatrixTest - 2020.07.16 at 01h 02m 46s.xml">
-      <configuration name="FindInPartiallySortedMatrixTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReplaceSpacesTest_test_space_in_the_middle_of_string - 2020.07.17 at 00h 38m 54s.xml">
-      <configuration name="ReplaceSpacesTest.test_space_in_the_middle_of_string" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReplaceSpacesTest - 2020.07.17 at 00h 43m 25s.xml">
-      <configuration name="ReplaceSpacesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReplaceSpacesTest - 2020.07.17 at 00h 43m 46s.xml">
-      <configuration name="ReplaceSpacesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrintListInReversedOrderTest_reversePrint - 2020.07.18 at 00h 16m 05s.xml">
-      <configuration name="PrintListInReversedOrderTest.reversePrint" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrintListInReversedOrderTest_reversePrint - 2020.07.18 at 00h 32m 51s.xml">
-      <configuration name="PrintListInReversedOrderTest.reversePrint" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrintListInReversedOrderTest_reversePrint - 2020.07.18 at 00h 33m 48s.xml">
-      <configuration name="PrintListInReversedOrderTest.reversePrint" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PrintListInReversedOrderTest_reversePrint - 2020.07.18 at 00h 34m 32s.xml">
       <configuration name="PrintListInReversedOrderTest.reversePrint" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PrintListInReversedOrderTest - 2020.07.18 at 00h 36m 19s.xml">
       <configuration name="PrintListInReversedOrderTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ConstructBinaryTreeTest_buildTree - 2021.02.07 at 22h 50m 00s.xml">
+      <configuration name="ConstructBinaryTreeTest.buildTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConstructBinaryTreeTest_middle_order_print - 2021.02.07 at 22h 50m 23s.xml">
+      <configuration name="ConstructBinaryTreeTest.middle_order_print" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConstructBinaryTreeTest_back_order_print - 2021.02.07 at 22h 51m 01s.xml">
+      <configuration name="ConstructBinaryTreeTest.back_order_print" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConstructBinaryTreeTest_back_order_print - 2021.02.07 at 22h 51m 54s.xml">
+      <configuration name="ConstructBinaryTreeTest.back_order_print" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConstructBinaryTreeTest_middle_order_print - 2021.02.07 at 22h 52m 14s.xml">
+      <configuration name="ConstructBinaryTreeTest.middle_order_print" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConstructBinaryTreeTest_middle_order_print - 2021.02.07 at 22h 55m 16s.xml">
+      <configuration name="ConstructBinaryTreeTest.middle_order_print" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConstructBinaryTreeTest_middle_order_print - 2021.02.07 at 22h 58m 09s.xml">
+      <configuration name="ConstructBinaryTreeTest.middle_order_print" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConstructBinaryTreeTest_back_order_print - 2021.02.07 at 22h 58m 15s.xml">
+      <configuration name="ConstructBinaryTreeTest.back_order_print" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39642000" />
+    <option name="totallyTimeSpent" value="41479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7386216" visible="true" weight="0.18157615" />
-      <window_info id="Structure" order="1" sideWeight="0.2613784" side_tool="true" visible="true" weight="0.18157615" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.73761714" visible="true" weight="0.18317358" />
+      <window_info id="Structure" order="1" sideWeight="0.26238286" side_tool="true" visible="true" weight="0.18317358" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="JProfiler" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23366337" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2673913" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25544554" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23861386" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26039603" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.35869566" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.35841584" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="CheckStyle" order="14" />
+      <window_info anchor="bottom" id="JProfiler" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -645,6 +665,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="86" column="18" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/BitSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
@@ -652,14 +706,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch05ReplaceSpaces/ReplaceSpaces.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1496">
+          <caret line="104" column="39" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -695,61 +745,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArrayTest.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder/PrintListInReversedOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        <state relative-caret-position="273">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch3_01DuplicationInArray/DuplicationInArray.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="86" column="18" lean-forward="true" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch03_02DuplicaitonInArrayNoEdit/DuplicationInArrayNoEdit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="92" column="9" lean-forward="true" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix/FindInPartiallySortedMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch05ReplaceSpaces/ReplaceSpaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="104" column="39" lean-forward="true" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="443">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+          <folding>
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder/PrintListInReversedOrder.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="85" column="5" selection-start-line="78" selection-start-column="4" selection-end-line="95" selection-end-column="5" />
+        <state relative-caret-position="544">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
         </state>
       </provider>
     </entry>
