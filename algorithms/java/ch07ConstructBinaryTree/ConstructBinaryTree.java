@@ -115,5 +115,6 @@ public class ConstructBinaryTree {
         treeNode1_2.left = treeNode1_2_1;
         treeNode1_2.right = treeNode1_2_2;
         return root;
+
     }
 }
