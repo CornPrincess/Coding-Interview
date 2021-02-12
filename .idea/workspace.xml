@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4227f6e7-c248-4c16-b162-cd2392058dd7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTreeTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -336,19 +335,19 @@
       <recent name="ch04FindInPartiallySortedMatrix" />
       <recent name="ch03_02DuplicaitonInArrayNoEdit" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/algorithm" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch05ReplaceSpaces" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch3DuplicationInArray" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/algorithm" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -507,11 +506,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41884000" />
+    <option name="totallyTimeSpent" value="42032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73397434" visible="true" weight="0.18526466" />
       <window_info id="Structure" order="1" sideWeight="0.26602563" side_tool="true" visible="true" weight="0.18526466" />
