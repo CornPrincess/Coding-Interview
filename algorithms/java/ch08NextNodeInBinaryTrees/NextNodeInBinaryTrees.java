@@ -15,7 +15,7 @@ public class NextNodeInBinaryTrees {
     // has bug
     public TreeLinkNode GetNext(TreeLinkNode pNode) {
         // 参数检查
-        if (pNode == null || pNode.parent == null) {
+        if (pNode == null) {
             return null;
         }
 
@@ -29,12 +29,12 @@ public class NextNodeInBinaryTrees {
         } else {
             // 不存在右子树
             // 指定节点为父节点的左子树，下一个节点为指定节点的父节点
-            if (pNode == pNode.parent.left) {
+            if (pNode.parent != null && pNode == pNode.parent.left) {
                 result = pNode.parent;
             } else {
                 // 指定节点为父节点的右子树，一直向上找，直到找到是父节点的左节点的点，下一个节点就是这个点的父节点，找不到则说明没有这个点
-                while (pNode.parent != null) {
-                    if (pNode.parent.parent != null && pNode.parent == pNode.parent.parent.left) {
+                while (pNode.parent != null && pNode.parent.parent != null) {
+                    if (pNode.parent == pNode.parent.parent.left) {
                         result = pNode.parent.parent;
                         break;
                     }
@@ -46,7 +46,8 @@ public class NextNodeInBinaryTrees {
         return result;
     }
 
-    public TreeLinkNode GetNext(TreeLinkNode pNode) {
+    // correct
+    public TreeLinkNode GetNext2(TreeLinkNode pNode) {
         // 参数检查
         if (pNode == null) {
             return null;
