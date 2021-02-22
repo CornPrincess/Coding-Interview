@@ -60,6 +60,8 @@ public class NextNodeInBinaryTrees {
                 result = result.left;
             }
         } else if (pNode.parent != null) {
+            // 这里将两种情况进行合并，秒
+            // 并且这里用了两个变量，可以理解为双指针，自己的代码这样写就容易产生bug
             TreeLinkNode current = pNode;
             TreeLinkNode parent = pNode.parent;
             while (parent != null && current == parent.right) {
