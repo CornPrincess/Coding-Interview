@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4227f6e7-c248-4c16-b162-cd2392058dd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTreesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/StackWithOneQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/StackWithTwoQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/java/YongLiangGeZhanShiXianDuiLieLcof.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/QueueWithTwoStacks.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,17 +42,78 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTrees.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state>
+              <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/QueueWithTwoStacks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+              <folding>
+                <element signature="e#1064#1065#0" expanded="true" />
+                <element signature="e#1085#1086#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/StackWithTwoQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#935#936#0" expanded="true" />
+                <element signature="e#991#992#0" expanded="true" />
+                <element signature="e#1026#1027#0" expanded="true" />
+                <element signature="e#1104#1105#0" expanded="true" />
+                <element signature="e#1142#1143#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/StackWithOneQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#772#773#0" expanded="true" />
+                <element signature="e#800#801#0" expanded="true" />
+                <element signature="e#856#857#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#961#962#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-438" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTreesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+            <state relative-caret-position="470">
+              <caret line="46" column="36" lean-forward="true" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
               <folding>
                 <element signature="e#1255#1256#0" expanded="true" />
                 <element signature="e#1293#1294#0" expanded="true" />
@@ -79,7 +141,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/java/YongLiangGeZhanShiXianDuiLieLcof.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/QueueWithTwoStacks.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
@@ -90,8 +152,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+            <state relative-caret-position="136">
+              <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -236,8 +298,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -285,8 +347,12 @@
         <option value="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree/ConstructBinaryTreeTest.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTree.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/TreeLinkNode.java" />
-        <option value="$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTrees.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTreesTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTrees.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/YongLiangGeZhanShiXianDuiLieLcof.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/QueueWithTwoStacks.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/StackWithTwoQueue.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/StackWithOneQueue.java" />
       </list>
     </option>
   </component>
@@ -335,6 +401,13 @@
             <path>
               <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ch09QueueWithTwoStacks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -372,11 +445,11 @@
       <recent name="ch04FindInPartiallySortedMatrix" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch05ReplaceSpaces" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch04FindInPartiallySortedMatrix" />
-      <recent name="$PROJECT_DIR$/algorithms/java/ch3DuplicationInArray" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -507,20 +580,11 @@
       <workItem from="1595513522380" duration="1701000" />
       <workItem from="1611587370136" duration="5841000" />
       <workItem from="1612708753974" duration="2069000" />
-      <workItem from="1613969989497" duration="1391000" />
+      <workItem from="1613969989497" duration="4283000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrintListInReversedOrderTest_reversePrint - 2020.07.18 at 00h 34m 32s.xml">
-      <configuration name="PrintListInReversedOrderTest.reversePrint" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrintListInReversedOrderTest - 2020.07.18 at 00h 36m 19s.xml">
-      <configuration name="PrintListInReversedOrderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConstructBinaryTreeTest_buildTree - 2021.02.07 at 22h 50m 00s.xml">
-      <configuration name="ConstructBinaryTreeTest.buildTree" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ConstructBinaryTreeTest_middle_order_print - 2021.02.07 at 22h 50m 23s.xml">
       <configuration name="ConstructBinaryTreeTest.middle_order_print" configurationId="JUnit" />
     </history-entry>
@@ -542,15 +606,24 @@
     <history-entry file="ConstructBinaryTreeTest_back_order_print - 2021.02.07 at 22h 58m 15s.xml">
       <configuration name="ConstructBinaryTreeTest.back_order_print" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NextNodeInBinaryTreesTest_getNext - 2021.02.22 at 23h 53m 06s.xml">
+      <configuration name="NextNodeInBinaryTreesTest.getNext" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NextNodeInBinaryTreesTest_getNext - 2021.02.22 at 23h 53m 30s.xml">
+      <configuration name="NextNodeInBinaryTreesTest.getNext" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NextNodeInBinaryTreesTest_getNext - 2021.02.22 at 23h 53m 57s.xml">
+      <configuration name="NextNodeInBinaryTreesTest.getNext" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46979000" />
+    <option name="totallyTimeSpent" value="49871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.73373675" visible="true" weight="0.24227902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.73373675" visible="true" weight="0.18690096" />
       <window_info id="Structure" order="1" sideWeight="0.26626325" side_tool="true" weight="0.24248926" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -560,12 +633,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2673913" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.25544554" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26732674" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24059406" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" weight="0.31445783" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.25445545" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.20361446" />
@@ -745,17 +818,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/YongLiangGeZhanShiXianDuiLieLcof.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        <state relative-caret-position="136">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -874,20 +940,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTreesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+        <state relative-caret-position="470">
+          <caret line="46" column="36" lean-forward="true" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
           <folding>
             <element signature="e#1255#1256#0" expanded="true" />
             <element signature="e#1293#1294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/QueueWithTwoStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/StackWithTwoQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1104#1105#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-438" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/QueueWithTwoStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="e#1064#1065#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/StackWithOneQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
           </folding>
         </state>
       </provider>
