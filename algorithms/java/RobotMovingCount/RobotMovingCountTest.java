@@ -19,5 +19,6 @@ public class RobotMovingCountTest {
     @Test
     public void useLibrary() {
         robotMovingCount.useLibrary("");
+        System.out.println(Integer.MAX_VALUE);
     }
 }
