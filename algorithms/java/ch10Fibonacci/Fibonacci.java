@@ -57,9 +57,56 @@ public class Fibonacci {
         if (map.containsKey(n)) {
             result = map.get(n);
         } else {
-            result = fib(n - 1) + fib(n - 2);
+            result = fib2(n - 1) + fib2(n - 2);
             map.put(n, result);
         }
         return result;
     }
+
+    public int fib3(int n) {
+        int a = 0;
+        int b = 1;
+        int c = a + b;
+        if (n == 0) {
+            return 0;
+        } else if (n == 1) {
+            return 1;
+        } else {
+            for (int i = 1; i < n; i++) {
+                c = a + b;
+                a = b;
+                b = c;
+            }
+            return c;
+        }
+    }
+
+    public int fib4(int n) {
+        int a = 0;
+        int b = 1;
+        int sum;
+        for (int i = 0; i < n; i++) {
+            sum = (a + b) % 1000000007;
+            a = b;
+            b = sum;
+        }
+        return a;
+    }
+
+    public long fib5(int n) {
+        int[] result = {0, 1};
+        if (n < 2) {
+            return result[n];
+        }
+        long fibMinusOne = 1;
+        long fibMinusTwo = 0;
+        long finN = 0;
+        for (int i = 2; i <= n; i++) {
+            finN = fibMinusOne+ + fibMinusTwo;
+            fibMinusTwo = fibMinusOne;
+            fibMinusOne = finN;
+        }
+        return finN;
+    }
+
 }
