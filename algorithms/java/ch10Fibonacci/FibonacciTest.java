@@ -52,6 +52,6 @@ public class FibonacciTest {
         System.out.println(res1[44]);
         System.out.println(res1[44]);
         System.out.println(Integer.MAX_VALUE);
-        System.out.println(433494437 + 701408733);
+        System.out.println((433494437 + 701408733) > Integer.MAX_VALUE);
     }
 }

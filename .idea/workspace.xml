@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch10Fibonacci/FibonacciTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch10Fibonacci/FibonacciTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithms/java/ch10Fibonacci/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch10Fibonacci/FibonacciTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/QingWaTiaoTaiJieWenTiLcof.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch10Fibonacci/NumWays.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch10Fibonacci/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-63">
-              <caret line="65" column="15" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
+            <state relative-caret-position="355">
+              <caret line="92" column="17" lean-forward="true" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,20 +111,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/java/ch10Fibonacci/FibonacciTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch10Fibonacci/NumWays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+            <state relative-caret-position="537">
+              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch10Fibonacci/FibonacciTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Learning">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -186,8 +196,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+            <state relative-caret-position="119">
+              <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -389,8 +399,10 @@
         <option value="$PROJECT_DIR$/algorithms/java/ch10Fibonacci/FeiBoNaQiShuLieLcof.java" />
         <option value="$PROJECT_DIR$/algorithms/java/RobotMovingCount/RobotMovingCountTest.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch10Fibonacci/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/algorithms/java/ch10Fibonacci/FibonacciTest.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch10Fibonacci/FibonacciTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch10Fibonacci/QingWaTiaoTaiJieWenTiLcof.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch10Fibonacci/NumWays.java" />
       </list>
     </option>
   </component>
@@ -413,7 +425,7 @@
     </navigator>
     <panes>
       <pane id="Course" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -442,20 +454,13 @@
             <path>
               <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="RobotMovingCount" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -483,19 +488,19 @@
       <recent name="ch06PrintListInReversedOrder" />
       <recent name="ch05ReplaceSpaces" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/algorithm" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algorithms/java/ch10Fibonacci" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch05ReplaceSpaces" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/algorithm" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -624,19 +629,11 @@
       <workItem from="1612708753974" duration="2069000" />
       <workItem from="1613969989497" duration="6844000" />
       <workItem from="1614352260488" duration="3205000" />
+      <workItem from="1614441262403" duration="1093000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FibonacciTest_fib2 - 2021.02.26 at 00h 15m 16s.xml">
-      <configuration name="FibonacciTest.fib2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FibonacciTest_fib3 - 2021.02.26 at 23h 16m 56s.xml">
-      <configuration name="FibonacciTest.fib3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FibonacciTest_fib3 - 2021.02.26 at 23h 23m 56s.xml">
-      <configuration name="FibonacciTest.fib3" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FibonacciTest_fib3 - 2021.02.26 at 23h 24m 52s.xml">
       <configuration name="FibonacciTest.fib3" configurationId="JUnit" />
     </history-entry>
@@ -658,24 +655,34 @@
     <history-entry file="FibonacciTest_fib4 - 2021.02.26 at 23h 54m 19s.xml">
       <configuration name="FibonacciTest.fib4" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FibonacciTest_fib4 - 2021.02.27 at 23h 55m 32s.xml">
+      <configuration name="FibonacciTest.fib4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciTest_fib4 - 2021.02.27 at 23h 56m 51s.xml">
+      <configuration name="FibonacciTest.fib4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciTest_fib4 - 2021.02.27 at 23h 59m 13s.xml">
+      <configuration name="FibonacciTest.fib4" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55637000" />
+    <option name="totallyTimeSpent" value="56730000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1920" height="1052" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73373675" weight="0.16134185" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.73373675" visible="true" weight="0.16134185" />
       <window_info id="Structure" order="1" sideWeight="0.26626325" side_tool="true" weight="0.24248926" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" id="Learn" order="7" visible="true" weight="0.32960597" />
+      <window_info id="Learn" order="7" weight="0.1970181" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26534653" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2930693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3970297" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -753,12 +760,6 @@
           <line>110</line>
           <properties />
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/java/ch10Fibonacci/FibonacciTest.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -942,8 +943,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        <state relative-caret-position="119">
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -1055,27 +1056,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Learning">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch10Fibonacci/FibonacciTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch10Fibonacci/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="65" column="15" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
+        <state relative-caret-position="355">
+          <caret line="92" column="17" lean-forward="true" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch10Fibonacci/FibonacciTest.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch10Fibonacci/NumWays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Learning">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        <state relative-caret-position="537">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
         </state>
       </provider>
     </entry>

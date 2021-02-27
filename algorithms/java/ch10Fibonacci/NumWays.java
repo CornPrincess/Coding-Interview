@@ -1,3 +1,4 @@
+package ch10Fibonacci;
 // Source : https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/
 // Author : cornprincess
 // Date   : 2021-02-13
@@ -31,3 +32,19 @@
  * 
  ******************************************************************************************************/
 
+public class NumWays {
+    public int numWays(int n) {
+        if (n < 2) {
+            return 1;
+        }
+        int b = 1;
+        int a = 1;
+        int num = 0;
+        for (int i = 2; i <= n; i++) {
+            num = (a + b) % 1000000007;
+            a = b;
+            b = num;
+        }
+        return num;
+    }
+}
