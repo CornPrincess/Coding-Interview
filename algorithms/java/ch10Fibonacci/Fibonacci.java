@@ -102,11 +102,21 @@ public class Fibonacci {
         long fibMinusTwo = 0;
         long finN = 0;
         for (int i = 2; i <= n; i++) {
-            finN = fibMinusOne+ + fibMinusTwo;
+            finN = fibMinusOne + +fibMinusTwo;
             fibMinusTwo = fibMinusOne;
             fibMinusOne = finN;
         }
         return finN;
+    }
+
+    public int fib6(int n) {
+        int[] temp = new int[n + 1];
+        temp[0] = 0;
+        temp[1] = 1;
+        for (int i = 2; i <= n; i++) {
+            temp[i] = temp[i - 2] + temp[i - 1];
+        }
+        return temp[n];
     }
 
 }
