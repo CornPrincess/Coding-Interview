@@ -42,6 +42,7 @@ public class MinNumberInRotatedArray {
         // 如果旋转了0个数
         while (numbers[left] >= numbers[right]) {
             if (right - left == 1) {
+                mid = right;
                 break;
             }
 
@@ -57,10 +58,11 @@ public class MinNumberInRotatedArray {
              * 以上情况，无法判断 mid 是在左边半区还是右边半区，最终求不出结果
              */
             if (numbers[left] == numbers[right] && numbers[mid] == numbers[left]) {
-                return MinInOrder(numbers, left, right);
+                return minInOrder(numbers, left, right);
             }
 
             // 缩小范围
+            // 因为数组是有序的，所以旋转之后，正常情况下左部分比右部分大
             if (numbers[mid] >= numbers[left]) {
                 left = mid;
             } else if (numbers[mid] <= numbers[right]) {
@@ -68,6 +70,50 @@ public class MinNumberInRotatedArray {
             }
         }
         return numbers[mid];
+    }
+
+    /*
+     * 1, | 0, 1, 1, 1
+     * l       m     r
+     * 1, 1, 1, | 0, 1
+     * l     m       r
+     */
+    private int minInOrder(int[] numbers, int index1, int index2) {
+        int result = numbers[index1];
+        // 特殊情况只能通过遍历来找到最小的数
+        for (int i = index1 + 1; i <= index2; i++) {
+            if (result > numbers[i]) {
+                result = numbers[i];
+            }
+        }
+
+        return result;
+    }
+
+
+    public int minArray2(int[] numbers) {
+        if (numbers == null || numbers.length < 1) {
+            return -1;
+        }
+
+        int left = 0;
+        int right = numbers.length - 1;
+        int mid = left;
+        while (left < right) {
+            mid = left + ((right - left) >> 1);
+            if (numbers[mid] > numbers[right]) {
+                // 这里这么写是因为此刻的mid不可能是我们要的最小值，所以可以+1
+                left =  mid + 1;
+            } else if (numbers[mid] < numbers[right]) {
+                // 这里这么写是因为此刻的mid有可能是最小值，不能+1
+                right = mid;
+            } else {
+                // core 这里是精髓所在，通过暴力法的思想，如果mid的值与right的值相同，那么将right往左推一位
+                // 这里 right--不影响结果，因为right不会是唯一最小的值，因此这种情况往前推一没关系，我们的目的是找到最小值，right--有利
+                right--;
+            }
+        }
+        return numbers[right];
     }
 
     // 二分查找的简单实现
