@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4227f6e7-c248-4c16-b162-cd2392058dd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrixTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/java/ch11MinNumberInRotatedArray/MinNumberInRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch11MinNumberInRotatedArray/MinNumberInRotatedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrix.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +36,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="238">
-                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <first_editor relative-caret-position="255">
+                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -95,10 +97,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/JuZhenZhongDeLuJingLcof.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="395">
+              <caret line="210" lean-forward="true" selection-start-line="210" selection-end-line="210" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrixTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -191,6 +202,9 @@
         <option value="$PROJECT_DIR$/algorithms/java/ch11MinNumberInRotatedArray/XuanZhuanShuZuDeZuiXiaoShuZiLcof.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch11MinNumberInRotatedArray/MinNumberInRotatedArrayTest.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch11MinNumberInRotatedArray/MinNumberInRotatedArray.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/JuZhenZhongDeLuJingLcof.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrixTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrix.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -236,6 +250,13 @@
             <path>
               <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ch12StringPathInMatrix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -264,11 +285,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ch12StringPathInMatrix" />
       <recent name="ch11MinNumberInRotatedArray" />
       <recent name="ch10Fibonacci" />
       <recent name="ch08NextNodeInBinaryTrees" />
       <recent name="ch07ConstructBinaryTree" />
-      <recent name="ch06PrintListInReversedOrder" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -278,11 +299,11 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch11MinNumberInRotatedArray" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch10Fibonacci" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch07ConstructBinaryTree" />
-      <recent name="$PROJECT_DIR$/algorithms/java/ch06PrintListInReversedOrder" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -297,36 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MinNumberInRotatedArrayTest.test_re">
-    <configuration name="MinNumberInRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch11MinNumberInRotatedArray.MinNumberInRotatedArray" />
-      <module name="Coding-Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch11MinNumberInRotatedArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FibonacciTest.fib4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Coding-Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch10Fibonacci.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ch10Fibonacci" />
-      <option name="MAIN_CLASS_NAME" value="ch10Fibonacci.FibonacciTest" />
-      <option name="METHOD_NAME" value="fib4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.StringPathInMatrixTest.cal8Queens">
     <configuration name="MinNumberInRotatedArrayTest.binarySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interview" />
       <extension name="coverage">
@@ -375,13 +367,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringPathInMatrixTest.cal8Queens" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch12StringPathInMatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch12StringPathInMatrix" />
+      <option name="MAIN_CLASS_NAME" value="ch12StringPathInMatrix.StringPathInMatrixTest" />
+      <option name="METHOD_NAME" value="cal8Queens" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringPathInMatrixTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch12StringPathInMatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch12StringPathInMatrix" />
+      <option name="MAIN_CLASS_NAME" value="ch12StringPathInMatrix.StringPathInMatrixTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringPathInMatrixTest.cal8Queens" />
+        <item itemvalue="JUnit.StringPathInMatrixTest.test" />
         <item itemvalue="JUnit.MinNumberInRotatedArrayTest.test_re" />
         <item itemvalue="JUnit.MinNumberInRotatedArrayTest.binarySearch" />
         <item itemvalue="JUnit.MinNumberInRotatedArrayTest.s" />
-        <item itemvalue="Application.MinNumberInRotatedArray" />
-        <item itemvalue="JUnit.FibonacciTest.fib4" />
       </list>
     </recent_temporary>
   </component>
@@ -408,44 +432,44 @@
       <workItem from="1612708753974" duration="2069000" />
       <workItem from="1613969989497" duration="6844000" />
       <workItem from="1614352260488" duration="3205000" />
-      <workItem from="1614441262403" duration="12386000" />
+      <workItem from="1614441262403" duration="21022000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MinNumberInRotatedArrayTest_binarySearch - 2021.03.01 at 22h 43m 55s.xml">
-      <configuration name="MinNumberInRotatedArrayTest.binarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinNumberInRotatedArrayTest_binarySearch - 2021.03.01 at 22h 44m 23s.xml">
-      <configuration name="MinNumberInRotatedArrayTest.binarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinNumberInRotatedArrayTest_binarySearch - 2021.03.01 at 22h 47m 55s.xml">
-      <configuration name="MinNumberInRotatedArrayTest.binarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinNumberInRotatedArrayTest_s - 2021.03.01 at 22h 48m 31s.xml">
-      <configuration name="MinNumberInRotatedArrayTest.s" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinNumberInRotatedArrayTest_s - 2021.03.01 at 22h 49m 28s.xml">
-      <configuration name="MinNumberInRotatedArrayTest.s" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinNumberInRotatedArrayTest_binarySearch - 2021.03.01 at 22h 50m 07s.xml">
-      <configuration name="MinNumberInRotatedArrayTest.binarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinNumberInRotatedArrayTest_binarySearch - 2021.03.01 at 22h 50m 29s.xml">
-      <configuration name="MinNumberInRotatedArrayTest.binarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinNumberInRotatedArrayTest_binarySearch - 2021.03.01 at 22h 50m 56s.xml">
-      <configuration name="MinNumberInRotatedArrayTest.binarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinNumberInRotatedArrayTest_binarySearch - 2021.03.01 at 22h 51m 16s.xml">
-      <configuration name="MinNumberInRotatedArrayTest.binarySearch" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MinNumberInRotatedArrayTest_test_re - 2021.03.01 at 22h 55m 42s.xml">
       <configuration name="MinNumberInRotatedArrayTest.test_re" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StringPathInMatrixTest_cal8Queens - 2021.03.02 at 22h 45m 55s.xml">
+      <configuration name="StringPathInMatrixTest.cal8Queens" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringPathInMatrixTest_cal8Queens - 2021.03.02 at 22h 47m 53s.xml">
+      <configuration name="StringPathInMatrixTest.cal8Queens" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringPathInMatrixTest_cal8Queens - 2021.03.02 at 22h 48m 52s.xml">
+      <configuration name="StringPathInMatrixTest.cal8Queens" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringPathInMatrixTest_cal8Queens - 2021.03.02 at 22h 49m 15s.xml">
+      <configuration name="StringPathInMatrixTest.cal8Queens" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringPathInMatrixTest_cal8Queens - 2021.03.02 at 22h 50m 08s.xml">
+      <configuration name="StringPathInMatrixTest.cal8Queens" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringPathInMatrixTest_test - 2021.03.02 at 23h 04m 22s.xml">
+      <configuration name="StringPathInMatrixTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringPathInMatrixTest_test - 2021.03.02 at 23h 04m 43s.xml">
+      <configuration name="StringPathInMatrixTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringPathInMatrixTest_test - 2021.03.02 at 23h 06m 05s.xml">
+      <configuration name="StringPathInMatrixTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringPathInMatrixTest_cal8Queens - 2021.03.03 at 21h 10m 18s.xml">
+      <configuration name="StringPathInMatrixTest.cal8Queens" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68023000" />
+    <option name="totallyTimeSpent" value="76659000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -469,12 +493,12 @@
       <window_info id="Learn" order="7" weight="0.1970181" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2930693" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3970297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31782177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36831683" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.319802" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.3910891" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.20361446" />
@@ -553,6 +577,18 @@
           <line>18</line>
           <properties />
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrix.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrixTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -914,16 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch11MinNumberInRotatedArray/MinNumberInRotatedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -934,10 +960,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/JuZhenZhongDeLuJingLcof.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrixTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="210" lean-forward="true" selection-start-line="210" selection-end-line="210" />
         </state>
       </provider>
     </entry>

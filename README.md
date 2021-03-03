@@ -12,3 +12,4 @@ The solution of coding interview(剑指offer) by Java, the scripts is from [haoe
 |剑指 Offer 08|[二叉树的下一个结点](https://www.nowcoder.com/practice/9023a0c988684a53960365b889ceaf5e?tpId=13&tqId=11210&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking&tab=answerKey) | [Java](./algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTrees.java)|Medium|recursive|1|
 |剑指 Offer 10- I|[斐波那契数列  LCOF](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [Java](./algorithms/java/ch10Fibonacci/Fibonacci.java)|Easy|Fibonacci|1|
 |剑指 Offer 11|[旋转数组的最小数字  LCOF](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [Java](./algorithms/java/ch11MinNumberInRotatedArray/MinNumberInRotatedArray.java)|Easy|BinarySearch|1|
+|剑指 Offer 12|[矩阵中的路径  LCOF](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [Java](./algorithms/java/ch12StringPathInMatrix/StringPathInMatrix.java)|Medium|DFS BackTracking|1|
