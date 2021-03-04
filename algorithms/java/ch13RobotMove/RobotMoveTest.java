@@ -1,11 +1,6 @@
-package RobotMovingCount;
+package ch13RobotMove;
 
-import org.junit.After;
 import org.junit.Test;
-
-import java.awt.geom.RoundRectangle2D;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by IntelliJ IDEA.
@@ -13,8 +8,8 @@ import static org.junit.Assert.*;
  * Date: 2020-04-13
  * Time: 08:25
  */
-public class RobotMovingCountTest {
-    private RobotMovingCount robotMovingCount = new RobotMovingCount();
+public class RobotMoveTest {
+    private RobotMove robotMovingCount = new RobotMove();
 
     @Test
     public void useLibrary() {
