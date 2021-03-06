@@ -14,3 +14,4 @@ The solution of coding interview(剑指offer) by Java, the scripts is from [haoe
 |剑指 Offer 11|[旋转数组的最小数字  LCOF](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [Java](./algorithms/java/ch11MinNumberInRotatedArray/MinNumberInRotatedArray.java)|Easy|BinarySearch|1|
 |剑指 Offer 12|[矩阵中的路径  LCOF](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [Java](./algorithms/java/ch12StringPathInMatrix/StringPathInMatrix.java)|Medium|DFS BackTracking|1|
 |剑指 Offer 13|[机器人的运动范围  LCOF](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [Java](./algorithms/java/ch13RobotMove/RobotMove.java)|Medium|BackTracking DFS BFS|1|
+14
