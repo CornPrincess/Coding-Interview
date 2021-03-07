@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4227f6e7-c248-4c16-b162-cd2392058dd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinaryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/java/QueueWithTwoStacks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/java/ch14CuttingRope/CuttingRope.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch14CuttingRope/CuttingRope.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,19 +37,62 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="272">
-                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <first_editor relative-caret-position="289">
+                <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/QueueWithTwoStacks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+              <folding>
+                <element signature="e#1064#1065#0" expanded="true" />
+                <element signature="e#1097#1098#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch14CuttingRope/CuttingRope.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="53" column="38" lean-forward="true" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+            <state relative-caret-position="107">
+              <caret line="110" column="26" lean-forward="true" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinaryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="738" column="26" selection-start-line="738" selection-start-column="26" selection-end-line="738" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -53,10 +100,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch13RobotMove/RobotMove.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="146" column="21" lean-forward="true" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
+            <state relative-caret-position="1972">
+              <caret line="146" column="21" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
               <folding>
-                <element signature="e#0#1584#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -84,7 +130,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/algorithms/lib/junit-4.7.jar!/org/junit/runners/model/FrameworkMethod.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="272">
               <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
@@ -93,9 +139,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch11MinNumberInRotatedArray/MinNumberInRotatedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="101" column="30" lean-forward="true" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
+            <state relative-caret-position="1717">
+              <caret line="101" column="30" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
               <folding>
+                <element signature="e#3876#3877#0" expanded="true" />
                 <element signature="e#3949#3950#0" expanded="true" />
               </folding>
             </state>
@@ -105,8 +152,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="215" lean-forward="true" selection-start-line="215" selection-end-line="215" />
+            <state relative-caret-position="3655">
+              <caret line="215" selection-start-line="215" selection-end-line="215" />
             </state>
           </provider>
         </entry>
@@ -124,7 +171,7 @@
         <entry file="file://$PROJECT_DIR$/scripts/readme.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -156,9 +203,11 @@
       <find>QUESTION_CONTENT</find>
       <find>private</find>
       <find>next</find>
+      <find>1</find>
     </findStrings>
     <replaceStrings>
       <replace>parent</replace>
+      <replace>1</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -167,7 +216,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithm/java/tmp.json" />
         <option value="$PROJECT_DIR$/scripts/lib/query_problem.sh" />
         <option value="$PROJECT_DIR$/scripts/readme.sh" />
         <option value="$PROJECT_DIR$/algorithms/java/13-RobotMovingCount/RobotMovingCount.java" />
@@ -214,8 +262,11 @@
         <option value="$PROJECT_DIR$/algorithms/java/ch13RobotMovingCount/RobotMovingCount.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch13RobotMove/RobotMovingCount.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch13RobotMove/RobotMove.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/algorithms/java/ch14CuttingRope/CuttingRope.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/ErJinZhiZhong1deGeShuLcof.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinaryTest.java" />
       </list>
     </option>
   </component>
@@ -227,18 +278,15 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="28" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1920" />
-    <option name="height" value="1052" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -262,7 +310,7 @@
               <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ch14CuttingRope" type="462c0819:PsiDirectoryNode" />
+              <item name="ch15NumberOf1InBinary" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
@@ -274,6 +322,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,25 +345,25 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ch15NumberOf1InBinary" />
       <recent name="ch12StringPathInMatrix" />
       <recent name="ch11MinNumberInRotatedArray" />
       <recent name="ch10Fibonacci" />
       <recent name="ch08NextNodeInBinaryTrees" />
-      <recent name="ch07ConstructBinaryTree" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/algorithm" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch14CuttingRope" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch11MinNumberInRotatedArray" />
       <recent name="$PROJECT_DIR$/algorithms/java/ch10Fibonacci" />
-      <recent name="$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/algorithm" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -328,7 +378,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StringPathInMatrixTest.cal8Queens">
+  <component name="RunManager" selected="JUnit.NumberOf1InBinaryTest.test">
     <configuration name="MinNumberInRotatedArrayTest.binarySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interview" />
       <extension name="coverage">
@@ -345,22 +395,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinNumberInRotatedArrayTest.s" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Coding-Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch11MinNumberInRotatedArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ch11MinNumberInRotatedArray" />
-      <option name="MAIN_CLASS_NAME" value="ch11MinNumberInRotatedArray.MinNumberInRotatedArrayTest" />
-      <option name="METHOD_NAME" value="s" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MinNumberInRotatedArrayTest.test_re" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interview" />
       <extension name="coverage">
@@ -372,6 +406,22 @@
       <option name="PACKAGE_NAME" value="ch11MinNumberInRotatedArray" />
       <option name="MAIN_CLASS_NAME" value="ch11MinNumberInRotatedArray.MinNumberInRotatedArrayTest" />
       <option name="METHOD_NAME" value="test_re" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOf1InBinaryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch15NumberOf1InBinary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch15NumberOf1InBinary" />
+      <option name="MAIN_CLASS_NAME" value="ch15NumberOf1InBinary.NumberOf1InBinaryTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -411,11 +461,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NumberOf1InBinaryTest.test" />
         <item itemvalue="JUnit.StringPathInMatrixTest.cal8Queens" />
         <item itemvalue="JUnit.StringPathInMatrixTest.test" />
         <item itemvalue="JUnit.MinNumberInRotatedArrayTest.test_re" />
         <item itemvalue="JUnit.MinNumberInRotatedArrayTest.binarySearch" />
-        <item itemvalue="JUnit.MinNumberInRotatedArrayTest.s" />
       </list>
     </recent_temporary>
   </component>
@@ -442,44 +492,45 @@
       <workItem from="1612708753974" duration="2069000" />
       <workItem from="1613969989497" duration="6844000" />
       <workItem from="1614352260488" duration="3205000" />
-      <workItem from="1614441262403" duration="27767000" />
+      <workItem from="1614441262403" duration="28332000" />
+      <workItem from="1615102046281" duration="6152000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MinNumberInRotatedArrayTest_test_re - 2021.03.01 at 22h 55m 42s.xml">
-      <configuration name="MinNumberInRotatedArrayTest.test_re" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringPathInMatrixTest_cal8Queens - 2021.03.02 at 22h 45m 55s.xml">
-      <configuration name="StringPathInMatrixTest.cal8Queens" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringPathInMatrixTest_cal8Queens - 2021.03.02 at 22h 47m 53s.xml">
-      <configuration name="StringPathInMatrixTest.cal8Queens" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringPathInMatrixTest_cal8Queens - 2021.03.02 at 22h 48m 52s.xml">
-      <configuration name="StringPathInMatrixTest.cal8Queens" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringPathInMatrixTest_cal8Queens - 2021.03.02 at 22h 49m 15s.xml">
-      <configuration name="StringPathInMatrixTest.cal8Queens" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringPathInMatrixTest_cal8Queens - 2021.03.02 at 22h 50m 08s.xml">
-      <configuration name="StringPathInMatrixTest.cal8Queens" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringPathInMatrixTest_test - 2021.03.02 at 23h 04m 22s.xml">
-      <configuration name="StringPathInMatrixTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringPathInMatrixTest_test - 2021.03.02 at 23h 04m 43s.xml">
-      <configuration name="StringPathInMatrixTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringPathInMatrixTest_test - 2021.03.02 at 23h 06m 05s.xml">
-      <configuration name="StringPathInMatrixTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StringPathInMatrixTest_cal8Queens - 2021.03.03 at 21h 10m 18s.xml">
       <configuration name="StringPathInMatrixTest.cal8Queens" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 23m 19s.xml">
+      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 24m 32s.xml">
+      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 27m 53s.xml">
+      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 28m 10s.xml">
+      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 28m 42s.xml">
+      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 30m 01s.xml">
+      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 30m 34s.xml">
+      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 31m 20s.xml">
+      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 32m 03s.xml">
+      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83404000" />
+    <option name="totallyTimeSpent" value="90121000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -491,10 +542,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73373675" visible="true" weight="0.15282215" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73373675" visible="true" weight="0.1544196" />
       <window_info id="Structure" order="1" sideWeight="0.26626325" side_tool="true" weight="0.24248926" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -504,12 +555,12 @@
       <window_info id="Learn" order="7" weight="0.1970181" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31782177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31782177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36831683" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.27326733" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" weight="0.34059405" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.20361446" />
@@ -605,7 +656,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/java/tmp.json" />
     <entry file="file://$PROJECT_DIR$/algorithms/java/RobotMovingCount/RobotMovingCountTest.groovy" />
     <entry file="file://$PROJECT_DIR$/scripts/lib/query_problem.sh">
       <provider selected="true" editor-type-id="text-editor">
@@ -673,17 +723,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/QueueWithTwoStacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding>
-            <element signature="e#1064#1065#0" expanded="true" />
-            <element signature="e#1097#1098#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/StackWithTwoQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -701,13 +740,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -729,13 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/QueueWithTwoStacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
@@ -914,10 +939,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/algorithms/lib/junit-4.7.jar!/org/junit/runners/model/FrameworkMethod.class">
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch13RobotMove/RobotMove.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="1972">
+          <caret line="146" column="21" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -928,10 +956,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/algorithms/lib/junit-4.7.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch11MinNumberInRotatedArray/MinNumberInRotatedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="30" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
+          <folding>
+            <element signature="e#3876#3877#0" expanded="true" />
+            <element signature="e#3949#3950#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3655">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/readme.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -943,62 +1010,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch08NextNodeInBinaryTrees/NextNodeInBinaryTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch11MinNumberInRotatedArray/MinNumberInRotatedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="101" column="30" lean-forward="true" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
-          <folding>
-            <element signature="e#3949#3950#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrixTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch12StringPathInMatrix/StringPathInMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="215" lean-forward="true" selection-start-line="215" selection-end-line="215" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch13RobotMove/RobotMove.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="146" column="21" lean-forward="true" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#1584#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <first_editor relative-caret-position="289">
+            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/QueueWithTwoStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch09QueueWithTwoStacks/QueueWithTwoStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="e#1064#1065#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch14CuttingRope/CuttingRope.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="53" column="38" lean-forward="true" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+        <state relative-caret-position="107">
+          <caret line="110" column="26" lean-forward="true" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="738" column="26" selection-start-line="738" selection-start-column="26" selection-end-line="738" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinaryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
