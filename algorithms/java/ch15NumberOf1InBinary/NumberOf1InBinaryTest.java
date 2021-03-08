@@ -22,8 +22,19 @@ public class NumberOf1InBinaryTest {
         System.out.println(i);
         System.out.println("-----------");
         System.out.println("11111111111111111111111111111101".length());
-        System.out.println(Integer.valueOf("11111111111111111111111111111101", 2));
+//        System.out.println(Integer.valueOf("11111111111111111111111111111101", 2));
+        System.out.println(Integer.valueOf("-1111111111111111111111111111101", 2));
         System.out.println(Integer.MAX_VALUE);
         System.out.println(Integer.valueOf("1111111111111111111111111111111", 2));
+    }
+
+    @Test
+    public void test2() {
+        // 0000 0000 0000 0000 0000 0000 0000 0001
+        System.out.println(1 << 31);
+        System.out.println(1 << 32);
+        System.out.println(Integer.toBinaryString(-7));
+        System.out.println(Integer.toBinaryString(Integer.MIN_VALUE));
+        System.out.println(-7 & Integer.MIN_VALUE);
     }
 }

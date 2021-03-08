@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4227f6e7-c248-4c16-b162-cd2392058dd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinaryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/java/QueueWithTwoStacks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/java/ch14CuttingRope/CuttingRope.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch14CuttingRope/CuttingRope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinaryTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,20 +64,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+            <state relative-caret-position="315">
+              <caret line="63" column="4" lean-forward="true" selection-start-line="63" selection-start-column="4" selection-end-line="77" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinaryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="583">
+              <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="738" column="26" selection-start-line="738" selection-start-column="26" selection-end-line="738" selection-end-column="26" />
+            <state relative-caret-position="486">
+              <caret line="498" column="65" lean-forward="true" selection-start-line="498" selection-start-column="65" selection-end-line="498" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -265,8 +262,8 @@
         <option value="$PROJECT_DIR$/algorithms/java/ch14CuttingRope/CuttingRope.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/ErJinZhiZhong1deGeShuLcof.java" />
-        <option value="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinaryTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java" />
       </list>
     </option>
   </component>
@@ -378,23 +375,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NumberOf1InBinaryTest.test">
-    <configuration name="MinNumberInRotatedArrayTest.binarySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Coding-Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch11MinNumberInRotatedArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ch11MinNumberInRotatedArray" />
-      <option name="MAIN_CLASS_NAME" value="ch11MinNumberInRotatedArray.MinNumberInRotatedArrayTest" />
-      <option name="METHOD_NAME" value="binarySearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.NumberOf1InBinaryTest.test2">
     <configuration name="MinNumberInRotatedArrayTest.test_re" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interview" />
       <extension name="coverage">
@@ -422,6 +403,22 @@
       <option name="PACKAGE_NAME" value="ch15NumberOf1InBinary" />
       <option name="MAIN_CLASS_NAME" value="ch15NumberOf1InBinary.NumberOf1InBinaryTest" />
       <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOf1InBinaryTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch15NumberOf1InBinary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch15NumberOf1InBinary" />
+      <option name="MAIN_CLASS_NAME" value="ch15NumberOf1InBinary.NumberOf1InBinaryTest" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -461,11 +458,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NumberOf1InBinaryTest.test2" />
         <item itemvalue="JUnit.NumberOf1InBinaryTest.test" />
         <item itemvalue="JUnit.StringPathInMatrixTest.cal8Queens" />
         <item itemvalue="JUnit.StringPathInMatrixTest.test" />
         <item itemvalue="JUnit.MinNumberInRotatedArrayTest.test_re" />
-        <item itemvalue="JUnit.MinNumberInRotatedArrayTest.binarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -493,44 +490,44 @@
       <workItem from="1613969989497" duration="6844000" />
       <workItem from="1614352260488" duration="3205000" />
       <workItem from="1614441262403" duration="28332000" />
-      <workItem from="1615102046281" duration="6152000" />
+      <workItem from="1615102046281" duration="7906000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringPathInMatrixTest_cal8Queens - 2021.03.03 at 21h 10m 18s.xml">
-      <configuration name="StringPathInMatrixTest.cal8Queens" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 23m 19s.xml">
-      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 24m 32s.xml">
-      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 27m 53s.xml">
-      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 28m 10s.xml">
-      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 28m 42s.xml">
-      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 30m 01s.xml">
-      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 30m 34s.xml">
-      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 31m 20s.xml">
       <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="NumberOf1InBinaryTest_test - 2021.03.07 at 17h 32m 03s.xml">
       <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.08 at 23h 29m 48s.xml">
+      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.08 at 23h 30m 17s.xml">
+      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test - 2021.03.08 at 23h 30m 32s.xml">
+      <configuration name="NumberOf1InBinaryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test2 - 2021.03.08 at 23h 32m 09s.xml">
+      <configuration name="NumberOf1InBinaryTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test2 - 2021.03.08 at 23h 37m 29s.xml">
+      <configuration name="NumberOf1InBinaryTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test2 - 2021.03.08 at 23h 37m 51s.xml">
+      <configuration name="NumberOf1InBinaryTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test2 - 2021.03.08 at 23h 38m 37s.xml">
+      <configuration name="NumberOf1InBinaryTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberOf1InBinaryTest_test2 - 2021.03.08 at 23h 39m 14s.xml">
+      <configuration name="NumberOf1InBinaryTest.test2" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90121000" />
+    <option name="totallyTimeSpent" value="91875000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -545,7 +542,7 @@
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73373675" visible="true" weight="0.1544196" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.73373675" visible="true" weight="0.1544196" />
       <window_info id="Structure" order="1" sideWeight="0.26626325" side_tool="true" weight="0.24248926" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -555,7 +552,7 @@
       <window_info id="Learn" order="7" weight="0.1970181" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31782177" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31782177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36831683" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1045,27 +1042,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="738" column="26" selection-start-line="738" selection-start-column="26" selection-end-line="738" selection-end-column="26" />
+        <state relative-caret-position="486">
+          <caret line="498" column="65" lean-forward="true" selection-start-line="498" selection-start-column="65" selection-end-line="498" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinaryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="583">
+          <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="63" column="4" lean-forward="true" selection-start-line="63" selection-start-column="4" selection-end-line="77" selection-end-column="5" />
         </state>
       </provider>
     </entry>

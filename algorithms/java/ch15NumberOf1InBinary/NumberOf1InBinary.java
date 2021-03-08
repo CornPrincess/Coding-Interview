@@ -35,27 +35,46 @@ package ch15NumberOf1InBinary;
  ******************************************************************************************************/
 
 public class NumberOf1InBinary {
-    // TODO 有bug
     public int hammingWeight(int n) {
         // 常规解法
         int sum = 0;
+        int t = 1;
         for (int i = 0; i < 32; i++) {
-            int t = (int) Math.pow(2, i);
             if ((t & n) == t) {
                 sum++;
             }
+            t = t << 1;
         }
         return sum;
     }
 
+    // core 这是另一种思路，不移动指针，而移动数字，这样可以一直用1来进行计算
     public int hammingWeight2(int n) {
         // 常规解法
         int sum = 0;
         while (n != 0) {
             sum += n & 1;
+            // core 这里一定要用无符号右移
             n = n >>> 1;
         }
         return sum;
+    }
+
+    // core 巧用 n & (n - 1)
+    public int hammingWeight3(int n) {
+        /*
+         * core n有几个1就循环几次，次方法最佳
+         *  n & (n - 1) 的作用为消去 n 最右边的1
+         *  n:           1111 1000
+         *  n-1:         1111 0111
+         *  n & (n - 1): 1111 0000
+         */
+        int res = 0;
+        while (n != 0) {
+            res++;
+            n = n & (n - 1);
+        }
+        return res;
     }
 }
 
