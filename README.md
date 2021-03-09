@@ -17,4 +17,4 @@ The solution of coding interview(剑指offer) by Java, the scripts is from [haoe
 |剑指 Offer 14- I|[剪绳子  LCOF](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [Java](./algorithms/java/ch14CuttingRope/CuttingRope.java)|Medium|DP|1|
 
 
-15
+youkale
