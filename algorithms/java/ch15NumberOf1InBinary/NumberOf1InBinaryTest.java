@@ -2,8 +2,6 @@ package ch15NumberOf1InBinary;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
 /**
  * Created by IntelliJ IDEA.
  * User: zhoutianbin
@@ -36,5 +34,15 @@ public class NumberOf1InBinaryTest {
         System.out.println(Integer.toBinaryString(-7));
         System.out.println(Integer.toBinaryString(Integer.MIN_VALUE));
         System.out.println(-7 & Integer.MIN_VALUE);
+    }
+
+    @Test
+    public void test3() {
+        double t = 0.9;
+        double t2 = 0.9;
+        System.out.println(t == t2);
+        System.out.println(-1 ^ 2);
+        int a = -Integer.MIN_VALUE;
+        System.out.println(a);
     }
 }
