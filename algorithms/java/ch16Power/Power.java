@@ -43,7 +43,9 @@ public class Power {
         long exponent = n;
         // 如果 n 为负数
         if (n < 0) {
-            exponent = -n;
+            // core 以下代码有bug，如果这样写一样会有 int 溢出的问题
+//            exponent = -n;
+            exponent = -exponent;
             x = 1 / x;
         }
         return myPowerWithUnSignedExponent(x, exponent);
@@ -71,6 +73,24 @@ public class Power {
             base *= base;
             // core 使用位运算来优化
             exponent >>= 1;
+        }
+        return res;
+    }
+
+    public double myPow2(double x, int n) {
+        if(x == 0) {
+            return 0;
+        }
+        long b = n;
+        double res = 1.0;
+        if(b < 0) {
+            x = 1 / x;
+            b = -b;
+        }
+        while(b > 0) {
+            if((b & 1) == 1) res *= x;
+            x *= x;
+            b >>= 1;
         }
         return res;
     }
