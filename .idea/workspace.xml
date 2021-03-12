@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4227f6e7-c248-4c16-b162-cd2392058dd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigitsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch16Power/Power.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/class/production/Coding-Interview/ch16Power/Power.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/java/ch16Power/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch16Power/Power.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/java/ch16Power/PowerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch16Power/PowerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigits.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,12 +30,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <first_editor relative-caret-position="323">
+                <caret line="19" column="198" selection-start-line="19" selection-start-column="198" selection-end-line="19" selection-end-column="198" />
               </first_editor>
               <second_editor />
             </state>
@@ -97,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="-105">
+              <caret line="50" column="39" lean-forward="true" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -109,8 +106,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigitsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="391">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="1926" selection-start-line="1926" selection-end-line="1926" />
+              <folding>
+                <element signature="e#82616#82617#0" expanded="true" />
+                <element signature="e#82667#82668#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -313,14 +323,14 @@
         <option value="$PROJECT_DIR$/algorithms/java/ch14CuttingRope/CuttingRope.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/ErJinZhiZhong1deGeShuLcof.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/algorithms/java/ch16Power/ShuZhiDeZhengShuCiFangLcof.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinaryTest.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch16Power/PowerTest.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch16Power/Power.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch17Print1ToMaxOfNDigits/DaYinCong1daoZuiDaDeNweiShuLcof.java" />
-        <option value="$PROJECT_DIR$/algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigits.java" />
         <option value="$PROJECT_DIR$/algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigitsTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigits.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -358,13 +368,6 @@
               <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding-Interview" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ch17Print1ToMaxOfNDigits" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Coding-Interview" type="b2602c69:ProjectViewProjectNode" />
@@ -547,44 +550,44 @@
       <workItem from="1613969989497" duration="6844000" />
       <workItem from="1614352260488" duration="3205000" />
       <workItem from="1614441262403" duration="28332000" />
-      <workItem from="1615102046281" duration="15320000" />
+      <workItem from="1615102046281" duration="19011000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PowerTest_myPow2 - 2021.03.10 at 23h 06m 24s.xml">
-      <configuration name="PowerTest.myPow2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PowerTest_myPow2 - 2021.03.10 at 23h 06m 26s.xml">
-      <configuration name="PowerTest.myPow2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PowerTest_myPow2 - 2021.03.10 at 23h 06m 32s.xml">
-      <configuration name="PowerTest.myPow2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PowerTest_myPow - 2021.03.10 at 23h 06m 43s.xml">
-      <configuration name="PowerTest.myPow" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PowerTest_myPow2 - 2021.03.10 at 23h 07m 36s.xml">
-      <configuration name="PowerTest.myPow2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PowerTest_myPow - 2021.03.10 at 23h 07m 54s.xml">
-      <configuration name="PowerTest.myPow" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PowerTest_myPow - 2021.03.10 at 23h 11m 11s.xml">
-      <configuration name="PowerTest.myPow" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PowerTest_test - 2021.03.10 at 23h 11m 59s.xml">
-      <configuration name="PowerTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PowerTest_test - 2021.03.10 at 23h 12m 28s.xml">
       <configuration name="PowerTest.test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Print1ToMaxOfNDigitsTest_printNumbers2 - 2021.03.11 at 23h 03m 52s.xml">
       <configuration name="Print1ToMaxOfNDigitsTest.printNumbers2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Print1ToMaxOfNDigitsTest_printNumbers2 - 2021.03.12 at 22h 49m 11s.xml">
+      <configuration name="Print1ToMaxOfNDigitsTest.printNumbers2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Print1ToMaxOfNDigitsTest_printNumbers2 - 2021.03.12 at 22h 49m 22s.xml">
+      <configuration name="Print1ToMaxOfNDigitsTest.printNumbers2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Print1ToMaxOfNDigitsTest_printNumbers2 - 2021.03.12 at 22h 49m 23s.xml">
+      <configuration name="Print1ToMaxOfNDigitsTest.printNumbers2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Print1ToMaxOfNDigitsTest_printNumbers2 - 2021.03.12 at 22h 49m 59s.xml">
+      <configuration name="Print1ToMaxOfNDigitsTest.printNumbers2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Print1ToMaxOfNDigitsTest_printNumbers2 - 2021.03.12 at 22h 52m 42s.xml">
+      <configuration name="Print1ToMaxOfNDigitsTest.printNumbers2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Print1ToMaxOfNDigitsTest_printNumbers2 - 2021.03.12 at 22h 52m 43s.xml">
+      <configuration name="Print1ToMaxOfNDigitsTest.printNumbers2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Print1ToMaxOfNDigitsTest_printNumbers2 - 2021.03.12 at 22h 53m 11s.xml">
+      <configuration name="Print1ToMaxOfNDigitsTest.printNumbers2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Print1ToMaxOfNDigitsTest_printNumbers2 - 2021.03.12 at 23h 15m 59s.xml">
+      <configuration name="Print1ToMaxOfNDigitsTest.printNumbers2" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99289000" />
+    <option name="totallyTimeSpent" value="102980000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -597,6 +600,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73373675" visible="true" weight="0.1544196" />
       <window_info id="Structure" order="1" sideWeight="0.26626325" side_tool="true" weight="0.24248926" />
@@ -609,11 +613,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36336634" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3138614" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" weight="0.23663366" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.23663366" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.20361446" />
@@ -711,33 +715,10 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigits.java</url>
-          <line>58</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigitsTest.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="206" column="33" selection-start-line="206" selection-start-column="33" selection-end-line="206" selection-end-column="33" />
-          <folding>
-            <element signature="e#82616#82617#0" expanded="true" />
-            <element signature="e#82667#82668#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1077,16 +1058,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="569">
@@ -1134,15 +1105,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigitsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="391">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="1926" selection-start-line="1926" selection-end-line="1926" />
+          <folding>
+            <element signature="e#82616#82617#0" expanded="true" />
+            <element signature="e#82667#82668#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="-105">
+          <caret line="50" column="39" lean-forward="true" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="19" column="198" selection-start-line="19" selection-start-column="198" selection-end-line="19" selection-end-column="198" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

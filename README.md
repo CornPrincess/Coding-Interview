@@ -16,3 +16,5 @@ The solution of coding interview(剑指offer) by Java, the scripts is from [haoe
 |剑指 Offer 13|[机器人的运动范围  LCOF](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [Java](./algorithms/java/ch13RobotMove/RobotMove.java)|Medium|BackTracking DFS BFS|1|
 |剑指 Offer 14- I|[剪绳子  LCOF](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [Java](./algorithms/java/ch14CuttingRope/CuttingRope.java)|Medium|DP|1|
 |剑指 Offer 15|[二进制中1的个数 LCOF](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [Java](./algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java)|Easy|Bit Operation|1|
+|剑指 Offer 16|[数值的整数次方 LCOF](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [Java](./algorithms/java/ch16Power/Power.java)|Medium|BinarySearch Bit Operator|1|
+|剑指 Offer 17|[打印从1到最大的n位数 LCOF](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [Java](./algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigits.java)|Easy|DFS Full Arrangement|1|
