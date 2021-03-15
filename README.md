@@ -20,3 +20,4 @@ The solution of coding interview(剑指offer) by Java, the scripts is from [haoe
 |剑指 Offer 17|[打印从1到最大的n位数 LCOF](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [Java](./algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigits.java)|Easy|DFS Full Arrangement|1|
 
 18
+I hata GW
