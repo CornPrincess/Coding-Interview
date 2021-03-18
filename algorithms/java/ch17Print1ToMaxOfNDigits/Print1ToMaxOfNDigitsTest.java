@@ -17,11 +17,17 @@ public class Print1ToMaxOfNDigitsTest {
 
     @Test
     public void printNumbers() {
+        Integer.valueOf("");
     }
 
     @Test
-    public void printNumbers2() {
-        String s = print1ToMaxOfNDigits.printNumbers2(2);
+    public void printNumbers3() {
+        int[] s = print1ToMaxOfNDigits.printNumbers3(1);
         System.out.println(s);
+    }
+
+    @Test
+    public void printNumbers5() {
+        print1ToMaxOfNDigits.printNumbers5(2);
     }
 }

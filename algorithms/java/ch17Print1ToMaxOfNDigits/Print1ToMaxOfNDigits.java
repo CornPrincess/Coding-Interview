@@ -4,6 +4,8 @@ package ch17Print1ToMaxOfNDigits;
 // Author : cornprincess
 // Date   : 2021-03-11
 
+import java.util.Arrays;
+
 /*****************************************************************************************************
  *
  * 输入数字 n，按顺序打印出从 1 到最大的 n 位十进制数。比如输入 3，则打印出 1、2、3 一直到最大的 3 
@@ -101,4 +103,151 @@ public class Print1ToMaxOfNDigits {
         // core 一个数位循环结束，这里必须要-1，因为统计的是所有数位为9的个数，当这个数位循环结束，它就又要从0开始循环
         nineCnt--;
     }
+
+
+    // 模拟加法
+    public int[] printNumbers3(int n) {
+        if (n <= 0) {
+            return null;
+        }
+
+        int[] res = new int[(int) (Math.pow(10, n) - 1)];
+        char[] num = new char[n];
+        for (int i = 0; i < n; i++) {
+            num[i] = '0';
+        }
+
+        int index = 0;
+        while (!increment(num)) {
+            int number = printNumber(num);
+            if (number != -1) {
+                res[index++] = number;
+            }
+        }
+        return res;
+    }
+
+    // 字符串number表示一个数字，在 number上增加1
+    // 如果做加法溢出，则返回true；否则为false
+    private boolean increment(char[] num) {
+        int n = num.length;
+        // 进位
+        int nTakeOver = 0;
+        boolean isOverflow = false;
+
+        // 从后往前进行+1计算
+        for (int i = n - 1; i >= 0; i--) {
+            int nSum = num[i] - '0' + nTakeOver;
+            if (i == n - 1) {
+                nSum++;
+            }
+
+            // 如果有进位
+            if (nSum >= 10) {
+                if (i == 0) {
+                    isOverflow = true;
+                } else {
+                    nSum -= 10;
+                    nTakeOver = 1;
+                    num[i] = (char) ('0' + nSum);
+                }
+                // 没有进位
+            } else {
+                num[i] = (char) ('0' + nSum);
+                // 因为是+1操作，因此没有进位就意味着这次计算结束了
+                break;
+            }
+        }
+        return isOverflow;
+    }
+
+    // 字符串number表示一个数字，数字有若干个0开头
+    // 打印出这个数字，并忽略开头的0
+    private int printNumber(char[] num) {
+        boolean isbeigining0 = true;
+        int nLength = num.length;
+        StringBuilder sb = new StringBuilder();
+
+        // core 这里相当于是每次都把前面的0进行过滤
+        for (int i = 0; i < nLength; i++) {
+            if (isbeigining0 && num[i] != '0') {
+                isbeigining0 = false;
+            }
+
+            if (!isbeigining0) {
+                sb.append(num[i]);
+            }
+        }
+        if (!"".equals(sb.toString())) {
+            return Integer.valueOf(sb.toString());
+        } else {
+            return -1;
+        }
+    }
+
+    public int[] printNumbers4(int n) {
+        if (n <= 0) {
+            return null;
+        }
+
+        char[] num = new char[n];
+
+        for (int i = 0; i < 10; i++) {
+            num[0] = (char) (i + '0');
+            print1ToMaxOfNDigitsRecursively(num, n, 0);
+        }
+        return null;
+    }
+
+    void print1ToMaxOfNDigitsRecursively(char[] num, int n, int index) {
+        if (index == n - 1) {
+            printNumber(num);
+            return;
+        }
+        for (int i = 0; i < 10; i++) {
+            num[index + 1] = (char) (i + '0');
+            print1ToMaxOfNDigitsRecursively(num, n, index + 1);
+        }
+    }
+
+    char[] myLoop = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
+    char[] myNum;
+    int resIndex = 0;
+    int[] myRes;
+
+    public int[] printNumbers5(int n) {
+        myRes = new int[(int) (Math.pow(10, n) - 1)];
+        myNum = new char[n];
+        myDfs(0);
+        System.out.println(Arrays.toString(myRes));
+        return myRes;
+    }
+
+    private void myDfs(int index) {
+        if (index == myNum.length) {
+            int a = convertNumber(myNum);
+            if (a != -1) {
+                myRes[resIndex++] = a;
+            }
+            return;
+        }
+
+        for (char c : myLoop) {
+            myNum[index] = c;
+            myDfs(index + 1);
+        }
+    }
+
+    private int convertNumber(char[] num) {
+        int start = 0;
+        // core  这里一定要注意边界条件
+        while (num[start] == '0') {
+            start++;
+            if (start == num.length) {
+                return -1;
+            }
+        }
+        return Integer.valueOf(String.valueOf(num, start, num.length - start));
+    }
+
 }
