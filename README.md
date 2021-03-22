@@ -18,6 +18,4 @@ The solution of coding interview(剑指offer) by Java, the scripts is from [haoe
 |剑指 Offer 15|[二进制中1的个数 LCOF](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [Java](./algorithms/java/ch15NumberOf1InBinary/NumberOf1InBinary.java)|Easy|Bit Operation|1|
 |剑指 Offer 16|[数值的整数次方 LCOF](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [Java](./algorithms/java/ch16Power/Power.java)|Medium|BinarySearch Bit Operator|1|
 |剑指 Offer 17|[打印从1到最大的n位数 LCOF](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [Java](./algorithms/java/ch17Print1ToMaxOfNDigits/Print1ToMaxOfNDigits.java)|Easy|DFS Full Arrangement|1|
-
-18
-I hata GW
+|剑指 Offer 18|[删除链表的节点 LCOF](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [Java](./algorithms/java/ch18DeleteNodeInList/DeleteNodeInList.java)|Easy|ListNode|1|
